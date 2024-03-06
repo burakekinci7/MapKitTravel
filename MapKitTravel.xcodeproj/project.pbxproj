@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C07E80912B00D43A00D0EEF6 /* TravelListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07E80902B00D43A00D0EEF6 /* TravelListVC.swift */; };
 		C0F763A62AFF4DCF00381DE1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F763A52AFF4DCF00381DE1 /* AppDelegate.swift */; };
 		C0F763A82AFF4DCF00381DE1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F763A72AFF4DCF00381DE1 /* SceneDelegate.swift */; };
 		C0F763AA2AFF4DCF00381DE1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F763A92AFF4DCF00381DE1 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C07E80902B00D43A00D0EEF6 /* TravelListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelListVC.swift; sourceTree = "<group>"; };
 		C0F763A22AFF4DCF00381DE1 /* MapKitTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapKitTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0F763A52AFF4DCF00381DE1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0F763A72AFF4DCF00381DE1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				C0F763A52AFF4DCF00381DE1 /* AppDelegate.swift */,
 				C0F763A72AFF4DCF00381DE1 /* SceneDelegate.swift */,
 				C0F763A92AFF4DCF00381DE1 /* ViewController.swift */,
+				C07E80902B00D43A00D0EEF6 /* TravelListVC.swift */,
 				C0F763AB2AFF4DCF00381DE1 /* Main.storyboard */,
 				C0F763B12AFF4DD000381DE1 /* Assets.xcassets */,
 				C0F763B32AFF4DD000381DE1 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0F763AA2AFF4DCF00381DE1 /* ViewController.swift in Sources */,
+				C07E80912B00D43A00D0EEF6 /* TravelListVC.swift in Sources */,
 				C0F763B02AFF4DCF00381DE1 /* MapKitTravel.xcdatamodeld in Sources */,
 				C0F763A62AFF4DCF00381DE1 /* AppDelegate.swift in Sources */,
 				C0F763A82AFF4DCF00381DE1 /* SceneDelegate.swift in Sources */,
